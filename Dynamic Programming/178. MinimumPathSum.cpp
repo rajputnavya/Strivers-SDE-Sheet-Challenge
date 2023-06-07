@@ -46,6 +46,8 @@ int minSumPath(vector<vector<int>> &grid) {
 
 
 // APPROACH 2 (Optimised) - DP
+// TC : O(m*n)
+// SC : O(m*n)
 
 int minSumPath(vector<vector<int>> &grid) {
     // Write your code here.
