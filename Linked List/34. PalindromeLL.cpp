@@ -1,5 +1,6 @@
 // Question Link : 
 // Code Studio : https://www.codingninjas.com/codestudio/problems/palindrome-linked-list_8230717?challengeSlug=striver-sde-challenge&leftPanelTab=1
+// LeetCode : https://leetcode.com/problems/palindrome-linked-list/submissions/970229282/
 
 #include <bits/stdc++.h> 
 /****************************************************************
