@@ -1,3 +1,7 @@
+// Question Link : 
+// CodeStudio : https://www.codingninjas.com/codestudio/problems/cycle-detection-in-a-singly-linked-list_8230683?challengeSlug=striver-sde-challenge
+// LeetCode : https://leetcode.com/problems/linked-list-cycle/submissions/970229967/
+
 /****************************************************************
 
     Following is the class structure of the Node class:
