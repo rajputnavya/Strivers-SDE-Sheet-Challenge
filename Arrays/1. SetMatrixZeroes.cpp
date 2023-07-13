@@ -1,5 +1,5 @@
 // Question Link :
-// Code Studio : https://www.codingninjas.com/studio/problems/zero-matrix_1171153?utm_source=youtube&utm_medium=affiliate&utm_campaign=striver_Arrayproblems&leftPanelTab=3
+// Code Studio : https://www.codingninjas.com/studio/problems/set-matrix-zeros_8230862?challengeSlug=striver-sde-challenge&leftPanelTab=3
 
 #include <bits/stdc++.h> 
 // Brute Force
