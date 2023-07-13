@@ -45,7 +45,7 @@
 
 
 
-// DP
+// DP | TC:O(mn) | SC: O(mn)
 vector<vector<int>> zeroMatrix(vector<vector<int>> &matrix, int n, int m) {
 	bool firstRowHasZero = false;
 	bool firstColHasZero = false;
